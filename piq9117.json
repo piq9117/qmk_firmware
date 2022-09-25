@@ -46,9 +46,9 @@
       "KC_LGUI",
       "KC_BSPC",
       "KC_RCTL",
-      "MO(1)",
       "KC_ENT",
-      "KC_SPC"
+      "KC_SPC",
+      "MO(1)"
     ],
     [
       "KC_GRV",
